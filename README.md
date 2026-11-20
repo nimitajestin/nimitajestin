@@ -1,34 +1,30 @@
-### hello
+### Nimita Jestin
 
-i work on software that has to stay explainable: reports you can trace, models you can inspect, and tools that run close to the data.
+I like a line that can be read twice, and an argument that still stands once someone pushes back. I read widely, and I study AIML at Symbiosis Institute of Technology. The work below has to show how it got its answer.
 
 ---
 
 ### selected work
 
 **[Provenance](https://github.com/nimitajestin/Provenance)**
-a compliance engine that turns operational and finance data into regulator-ready reports, with reproducible calculations and an audit trail.
-
-**[Memoria](https://github.com/nimitajestin/Memoria)**
-local-first agentic knowledge, with persistent memory over MCP on constrained hardware.
-
-**[AR Digital Passport](https://github.com/nimitajestin/AR-Digital-Passport-for-Physical-Assets)**
-an AR layer for tracking physical assets in labs, classrooms, and offices.
-
-**[KSPDB Outage System](https://github.com/nimitajestin/kspdb-outage-system)**
-fault detection for power distribution.
+EPR compliance for plastic waste: traceable reports, a RAG extractor for compliance documents, and an OCR pipeline.
 
 **[DeepAct](https://github.com/nimitajestin/DeepActtt)**
-hybrid CNN and RNN models.
+Video action recognition with a hybrid CNN–GRU, from frame sampling through sequence modeling.
 
-**[BRSR-RAG](https://github.com/nimitajestin/BRSR-RAG)**
-retrieval over sustainability disclosures.
+**[Memoria](https://github.com/nimitajestin/Memoria)**
+Local-first memory for agents on small machines.
+
+**[KSPDB Outage System](https://github.com/nimitajestin/kspdb-outage-system)**
+Fault detection for power distribution, and the first piece of a longer interest in how energy systems behave.
 
 ---
 
 ### stack
 
 Python · JavaScript · Java
+
+NLTK · Streamlit · PostgreSQL · Supabase
 
 ---
 
