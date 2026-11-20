@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Nimita Jestin. Turning ideas into working projects." width="100%">
+<img src="assets/header.svg" alt="Nimita Jestin" width="100%">
 
 A Computer Science student who enjoys turning ideas into working projects.
 
