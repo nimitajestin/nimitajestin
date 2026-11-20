@@ -1,37 +1,36 @@
-### Nimita Jestin
+<div align="center">
 
-I like a line that can be read twice, and an argument that still stands once someone pushes back. I read widely, and I study AIML at Symbiosis Institute of Technology. The work below has to show how it got its answer.
+<img src="assets/banner.svg" alt="Nimita Jestin. A line that can be read twice." width="100%">
 
----
+I like an argument that still stands once someone pushes back. I read widely, and I study AIML at Symbiosis Institute of Technology. The work below has to show how it got its answer.
 
-### selected work
+<br>
 
-**[Provenance](https://github.com/nimitajestin/Provenance)**
-EPR compliance for plastic waste: traceable reports, a RAG extractor for compliance documents, and an OCR pipeline.
+<sub>selected work</sub>
 
-**[DeepAct](https://github.com/nimitajestin/DeepActtt)**
-Video action recognition with a hybrid CNN–GRU, from frame sampling through sequence modeling.
+<br>
 
-**[Memoria](https://github.com/nimitajestin/Memoria)**
-Local-first memory for agents on small machines.
+<a href="https://github.com/nimitajestin/Provenance"><img src="assets/work-provenance.svg" alt="Provenance" width="24%"></a>
+<a href="https://github.com/nimitajestin/DeepActtt"><img src="assets/work-deepact.svg" alt="DeepAct" width="24%"></a>
+<a href="https://github.com/nimitajestin/Memoria"><img src="assets/work-memoria.svg" alt="Memoria" width="24%"></a>
+<a href="https://github.com/nimitajestin/kspdb-outage-system"><img src="assets/work-kspdb.svg" alt="KSPDB" width="24%"></a>
 
-**[KSPDB Outage System](https://github.com/nimitajestin/kspdb-outage-system)**
-Fault detection for power distribution, and the first piece of a longer interest in how energy systems behave.
+<br>
 
----
+<sub>stack</sub>
 
-### stack
+<br>
 
-Python · JavaScript · Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="34" height="34">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="34" height="34">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="34" height="34">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="34" height="34">
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" width="34" height="34">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="34" height="34">
 
-NLTK · Streamlit · PostgreSQL · Supabase
+<br>
 
----
+<img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=nimitajestin&theme=github-dark&hide_border=true&background=0D1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681">
+<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitajestin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=E6EDF3&langs_count=6">
 
-<a href="https://github.com/nimitajestin">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nimitajestin&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide=issues,contribs" />
-</a>
-&nbsp;
-<a href="https://github.com/nimitajestin">
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitajestin&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide_title=true" />
-</a>
+</div>

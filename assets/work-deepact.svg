@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="124" viewBox="0 0 220 124" role="img" aria-label="DeepAct. Video action recognition.">
+  <rect x="0.5" y="0.5" width="219" height="123" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text x="16" y="40" fill="#f0f6fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">DeepAct</text>
+  <text x="16" y="68" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Video action recognition</text>
+  <text x="16" y="88" fill="#6e7681" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Hybrid CNNGRU</text>
+</svg>
