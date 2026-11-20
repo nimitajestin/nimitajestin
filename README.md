@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Nimita Jestin. A line that can be read twice." width="100%">
+<img src="assets/header.svg" alt="Nimita Jestin. Turning ideas into working projects." width="100%">
 
-I like an argument that still stands once someone pushes back. I read widely, and I study AIML at Symbiosis Institute of Technology. The work below has to show how it got its answer.
+A Computer Science student who enjoys turning ideas into working projects.
+
+I'm interested in **Agentic AI, Generative AI, Machine Learning, and Backend Engineering**, and love experimenting with new tools and building things along the way.
 
 <br>
 
