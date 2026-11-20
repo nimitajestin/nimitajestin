@@ -15,7 +15,7 @@ I'm interested in **Agentic AI, Generative AI, Machine Learning, and Backend Eng
 <a href="https://github.com/nimitajestin/Provenance"><img src="assets/work-provenance.svg" alt="Provenance" width="24%"></a>
 <a href="https://github.com/nimitajestin/DeepActtt"><img src="assets/deepact.svg" alt="DeepAct" width="24%"></a>
 <a href="https://github.com/nimitajestin/Memoria"><img src="assets/work-memoria.svg" alt="Memoria" width="24%"></a>
-<a href="https://github.com/nimitajestin/kspdb-outage-system"><img src="assets/work-kspdb.svg" alt="KSPDB" width="24%"></a>
+<a href="https://github.com/Yashmit-k/Multi-Agent-Trading-Bot"><img src="assets/work-stockx.svg" alt="StockX" width="24%"></a>
 
 <br>
 
