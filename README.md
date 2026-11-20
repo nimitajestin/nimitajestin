@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Nimita Jestin" width="100%">
+<img src="assets/header-intro.svg" alt="Hi, I'm Nimita Jestin." width="100%">
 
-A Computer Science student who enjoys turning ideas into working projects.
+I enjoy exploring the evolving field of AI and building intelligent applications that solve real-world problems.
 
-I'm interested in **Agentic AI, Generative AI, Machine Learning, and Backend Engineering**, and love experimenting with new tools and building things along the way.
+Currently focused on **Agentic AI, LLMs, Multi-Agent Systems, RAG, and Applied Machine Learning**.
 
 <br>
 
