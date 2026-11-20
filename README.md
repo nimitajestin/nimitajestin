@@ -11,7 +11,7 @@ I like an argument that still stands once someone pushes back. I read widely, an
 <br>
 
 <a href="https://github.com/nimitajestin/Provenance"><img src="assets/work-provenance.svg" alt="Provenance" width="24%"></a>
-<a href="https://github.com/nimitajestin/DeepActtt"><img src="assets/work-deepact.svg" alt="DeepAct" width="24%"></a>
+<a href="https://github.com/nimitajestin/DeepActtt"><img src="assets/deepact.svg" alt="DeepAct" width="24%"></a>
 <a href="https://github.com/nimitajestin/Memoria"><img src="assets/work-memoria.svg" alt="Memoria" width="24%"></a>
 <a href="https://github.com/nimitajestin/kspdb-outage-system"><img src="assets/work-kspdb.svg" alt="KSPDB" width="24%"></a>
 
