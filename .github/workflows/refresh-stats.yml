@@ -1,0 +1,33 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    # Every 3 hours, UTC. GitHub may start the run a few minutes late.
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Give the stat images a new link
+        run: |
+          stamp="$(date -u +%Y%m%d%H)"
+          sed -i -E "s/refresh=[0-9]+/refresh=${stamp}/g" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Stat images are already on this hour."
+            exit 0
+          fi
+          git commit -m "Refresh profile stat images."
+          git push
