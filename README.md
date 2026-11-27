@@ -32,7 +32,7 @@ Currently focused on **Agentic AI, LLMs, Multi-Agent Systems, RAG, and Applied M
 
 <br>
 
-<img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=nimitajestin&theme=github-dark&hide_border=true&background=0D1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&cache_seconds=14400&refresh=2026112712">
-<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitajestin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=E6EDF3&langs_count=6&cache_seconds=14400&refresh=2026112712">
+<img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=nimitajestin&theme=github-dark&hide_border=true&background=0D1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&cache_seconds=14400&refresh=2026112723">
+<img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimitajestin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=E6EDF3&langs_count=6&cache_seconds=14400&refresh=2026112723">
 
 </div>
